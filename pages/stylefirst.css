@@ -23,6 +23,11 @@
     color: #F9FAF8;
 }
 
+.no-underline {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
 /* Header */
 
 header {
